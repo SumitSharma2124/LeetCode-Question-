@@ -12,4 +12,8 @@
 
 [Solution](/leetcode-704/Leetcode-704--Binary-Search.java)
 
+[LeetCode-875 Koko Eating Bananas](/leetcode-875/Leetcode-875.md)
+
+[Solution](/leetcode-875/Leetcode-875--Koko-Eating-Bananas.java)
+
 
